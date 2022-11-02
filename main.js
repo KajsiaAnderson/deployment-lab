@@ -4,5 +4,4 @@ function succulent (event) {
     alert("feed me")
 }
 
-document.querySelector('img').addEventListener('click', succulent)
-
+document.querySelector('.image').addEventListener('click', succulent)
